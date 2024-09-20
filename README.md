@@ -32,3 +32,11 @@ and performance analysed on testing data.
 !["Precision recall logistic regression"](<plots/precision_recall_lr.png>)
 
 
+### Metrics for random forest
+!["Table logistic regression"](<plots/table_rf.png>)
+
+### Plots for logistic regression
+!["Model performance using Logistic regression"](<plots/feature_importance_rf.png>)
+!["Precision recall logistic regression"](<plots/precision_recall_rf.png>)
+
+
