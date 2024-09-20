@@ -24,6 +24,11 @@ Test to train ratio: 27.6%
 Logistic regression and Random forest classifier were hypertuned with 3-fold cross validation
 and performance analysed on testing data.
 
+### Metrics for logistic regression
+!["Table logistic regression"](<plots/table_lr.png>)
+
 ### Plots for logistic regression
 !["Model performance using Logistic regression"](<plots/feature_importance_lg.png>)
 !["Precision recall logistic regression"](<plots/precision_recall_lr.png>)
+
+
