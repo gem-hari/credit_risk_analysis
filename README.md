@@ -27,3 +27,7 @@ and performance analysed on testing data.
 ### Plots for logistic regression
 !["Model performance using Logistic regression"](<plots/feature_importance_lg.png>)
 !["Precision recall logistic regression"](<plots/precision_recall_lr.png>)
+
+### Metrics for logistic regression
+!["Table logistic regression"](<plots/table_lr.png>)
+
